@@ -1,0 +1,4 @@
+{
+  "name": "Excel Student Merger",
+  "description": "A tool to merge student data from two Excel files, combining IDs, names, and course enrollments into a single formatted output."
+}
